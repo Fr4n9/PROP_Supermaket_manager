@@ -45,7 +45,9 @@ El sistema utiliza algoritmos avanzados, como una solución al [**Problema del V
 
 ### 🚀 Demo Rápida
 
-*(Aquí iría tu GIF o vídeo de demostración)*
+![alt_text](https://github.com/Fr4n9/PROP_Supermaket_manager/blob/main/Imagen1.png)
+![alt_text](https://github.com/Fr4n9/PROP_Supermaket_manager/blob/main/Imagen2.png)
+![alt_text](https://github.com/Fr4n9/PROP_Supermaket_manager/blob/main/Imagen3.png)
 
 ---
 
