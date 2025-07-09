@@ -1,3 +1,7 @@
+<p align="center">
+  <a href="./README.es.md">Español</a> •
+  <a href="./README.ca.md">Català</a>
+</p>
 # Supermarket Manager 🛒
 
 **Smart optimization of product distribution in supermarkets to maximize sales and efficiency.**
