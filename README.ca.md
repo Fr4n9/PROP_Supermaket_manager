@@ -45,8 +45,9 @@ El sistema utilitza algorismes avançats, com una solució al [**Problema del Vi
 
 ### 🚀 Demo Ràpida
 
-*(Aquí aniria el teu GIF o vídeo de demostració)*
-
+![alt_text](https://github.com/Fr4n9/PROP_Supermaket_manager/blob/main/Imagen1.png)
+![alt_text](https://github.com/Fr4n9/PROP_Supermaket_manager/blob/main/Imagen2.png)
+![alt_text](https://github.com/Fr4n9/PROP_Supermaket_manager/blob/main/Imagen3.png)
 ---
 
 ### 🛠️ Stack Tecnològic i Arquitectura
