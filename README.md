@@ -50,6 +50,9 @@ The system uses advanced algorithms, such as a solution to the [**Travelling Sal
 
 ### 🚀 Quick Demo
 
+![alt_text](https://github.com/Fr4n9/PROP_Supermaket_manager/blob/main/Imagen1.png)
+![alt_text](https://github.com/Fr4n9/PROP_Supermaket_manager/blob/main/Imagen2.png)
+![alt_text](https://github.com/Fr4n9/PROP_Supermaket_manager/blob/main/Imagen3.png)
 
 
 ---
